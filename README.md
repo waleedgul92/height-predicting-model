@@ -53,13 +53,14 @@ You can check current balance of yours.
 * You can transfer funds to non existing username.
 * if the username is wrong in login, no exception is thrown.
 # Authors
-1. ​Waleed Gul<br> 
- ​hwaleed0035@gmail.com<br> 
- ​[​LinkedIn​](https://www.linkedin.com/in/waleedgul92/)
-2. Faris Bin Asif\
-   farisbinasif2016@gmail.com\
-   [​LinkedIn​](https://www.linkedin.com/in/faris-asif-523396199//)
-3. Arham Nasir\
-   arhamnasir66@gmail.com\
+
+1. Ahmed Aleem\
+   ahmadaleem13@gmail.com\
+   [​LinkedIn​](https://www.linkedin.com/in/ahmad-aleem-45a2251bb/)
+2. Mohsin Ali Mirza\
+   Mohsinalimirxa@gmail.com\
    [​LinkedIn​](https://www.linkedin.com/in/arham-nasir-365137217//)
+ 3. ​Waleed Gul<br> 
+ ​hwaleed0035@gmail.com<br> 
+ ​[​LinkedIn​](https://www.linkedin.com/in/mohsin-ali-mirza-63878620a)
 
