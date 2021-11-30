@@ -47,8 +47,13 @@ We used formula height is equals to square of velocity divided by double of grav
 * There may be a  reset button instead of restarting the project again and again.
 * The model must contain more dataset values.
 * The formula may include angle and force as well for better prediction. 
-# Authors
+## Game ##
+The game ask you to enter velocty and it shows predicted vs original height on that value of velocty.
 
+![image](https://user-images.githubusercontent.com/84980384/143987941-629857a5-7ec4-49c6-ae26-094f0f5eed58.png)
+
+![Screenshot 2021-11-30 095322](https://user-images.githubusercontent.com/84980384/143987836-9fd84d60-ee8f-4834-ae10-87ffd6467d08.png)
+# Authors
 1. Ahmed Aleem\
    ahmadaleem13@gmail.com\
    [​LinkedIn​](https://www.linkedin.com/in/ahmad-aleem-45a2251bb/)
