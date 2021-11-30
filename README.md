@@ -32,32 +32,17 @@ The code contains
 ![Screenshot 2021-11-30 094228](https://user-images.githubusercontent.com/84980384/143986883-dd6a008c-f9ba-4c11-8569-2f99bedb8f23.png)
 
 ### Accuracy  ###
-*  Formula vs trained data.
+*  Formula vs trained data\.
 We used formula height is equals to square of velocity divided by double of gravity and it is dervied from Kinetic energy is equal to Potential Energy.
 
 ![WhatsApp Image 2021-11-28 at 8 38 09 AM](https://user-images.githubusercontent.com/84980384/143987336-2de1d1ba-f633-473b-a782-fca98fb4b03f.jpeg)
+*  Formula vs Given dataset\.
 
-* Recharging Balance\
-You can transfer funds to other account by entering username is beneficially and the amount.if the amount is valid(account balance is higher than transfer amount ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
+![WhatsApp Image 2021-11-28 at 8 38 26 AM (1)](https://user-images.githubusercontent.com/84980384/143987513-f8a052df-ef00-49ab-8363-b838395372a8.jpeg)
 
-![Screenshot 2021-11-27 122955](https://user-images.githubusercontent.com/84980384/143672575-83e0d573-b530-414d-aedb-06d61d05a768.png)
-* Transport\
-You enter date and then select departure and destination city from list , number of seats and bus service.
+* Dataset vs Trained data\
 
-![Screenshot 2021-11-27 121306](https://user-images.githubusercontent.com/84980384/143672103-8a6ce735-f965-40ad-af6a-892e4220bfe8.png)
-* Recharge account\
-You enter amount , want to add to your account.
-
-![Screenshot 2021-11-27 121633](https://user-images.githubusercontent.com/84980384/143672229-b9f26263-5f92-4b04-94f9-394814dadc54.png)
-* History\
-Your history is saved and you can see it later.
-
-![Screenshot 2021-11-27 122248](https://user-images.githubusercontent.com/84980384/143672374-883bebd5-6cd6-4437-a6ff-8632f664b046.png)
-
-* Check balance
-You can check current balance of yours.
-
-![Screenshot 2021-11-27 122447](https://user-images.githubusercontent.com/84980384/143672433-a8651c77-363f-4c35-aeac-765a5460decc.png)
+![WhatsApp Image 2021-11-28 at 8 37 54 AM](https://user-images.githubusercontent.com/84980384/143987602-6abf23de-2cb5-4380-8f46-ccb439a48992.jpeg)
 ## Known Issues ##
 * There may be a  reset button instead of restarting the project again and again.
 * The model must contain more dataset values.
