@@ -24,17 +24,18 @@ The file 'grp - Copy.dat' contains the dataset.
  File 'theta.dat' contain values of weights of thetas for model.
 ![Screenshot 2021-11-30 093940](https://user-images.githubusercontent.com/84980384/143986649-9405f76f-cb7c-4351-be72-3f13164b7b01.png)
 
-### code ###
+### Code ###
 The code contains
 
 ![Screenshot 2021-11-30 094202](https://user-images.githubusercontent.com/84980384/143986912-e24fa362-7d79-47b7-9aa0-398f8174541e.png)
 
 ![Screenshot 2021-11-30 094228](https://user-images.githubusercontent.com/84980384/143986883-dd6a008c-f9ba-4c11-8569-2f99bedb8f23.png)
 
-* Billing\
- Enter your reference number of bill and amount , if the amount is valid(account balance is higher than bill ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
+### Accuracy  ###
+*  Formula vs trained data.
+We used formula height is equals to square of velocity divided by double of gravity and it is dervied from Kinetic energy is equal to Potential Energy.
 
-![Screenshot 2021-11-27 120136](https://user-images.githubusercontent.com/84980384/143671709-4cab1d09-be29-41d0-ad02-3bbfb1a5996a.png)
+![WhatsApp Image 2021-11-28 at 8 38 09 AM](https://user-images.githubusercontent.com/84980384/143987336-2de1d1ba-f633-473b-a782-fca98fb4b03f.jpeg)
 
 * Recharging Balance\
 You can transfer funds to other account by entering username is beneficially and the amount.if the amount is valid(account balance is higher than transfer amount ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
