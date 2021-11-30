@@ -17,10 +17,11 @@ Linear Algebra is basic of machine learning.Me with my group memmbers developed 
 * Once all files are download, just compile and run the program.
 ## Octave ##
 ### Files  ###
-The file 'grp - Copy.dat' contains the dataset and file 'theta.dat' contain values of weights of thetas for model.
+The file 'grp - Copy.dat' contains the dataset.
 
 ![Screenshot 2021-11-27 122447](https://user-images.githubusercontent.com/84980384/143986600-ae1980ec-9871-475a-a461-83f3705bef0d.png)
 
+ File 'theta.dat' contain values of weights of thetas for model.
 ![Screenshot 2021-11-30 093940](https://user-images.githubusercontent.com/84980384/143986649-9405f76f-cb7c-4351-be72-3f13164b7b01.png)
 
 ![Screenshot 2021-11-27 115225](https://user-images.githubusercontent.com/84980384/143671468-216c8678-4458-4f4c-925c-d0af6f1f60d5.png)
