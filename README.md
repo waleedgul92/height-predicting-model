@@ -1,8 +1,8 @@
-# Height predicting model
+# Linear Algera project.
 ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65342f4e6174696f6e616c5f556e69766572736974795f6f665f436f6d70757465725f616e645f456d6572676 (1)](https://user-images.githubusercontent.com/84980384/142883094-f0749c11-8373-4c7a-9e07-b94648ab14b5.png)\
-                 Management System made as group project for 1st semester at FAST National University-NUCES NUCES, karachi
+                 Height predicting model made at FAST National University-NUCES NUCES, karachi
 # Description
-Linear Algebra is basic of machine learning.Me with my group memmbers developed height predicting model and then implement it in form of cricket game.The game takes velocity and then predict the height, the formula used is mentioned later.
+Linear Algebra is basic of machine learning.Me with my group memmbers developed height predicting model using polynomial regressionand then implement it in form of cricket game.You can download the octave [​here​](https://www.gnu.org/software/octave/download).The game takes velocity and then predict the height, the formula used is mentioned later.
 
 # Getting Sarted
 ## Dependencies ##
@@ -12,7 +12,7 @@ Linear Algebra is basic of machine learning.Me with my group memmbers developed 
 * Made in Octave.
 * Made in C#.
 * Need all files in LA project for implementing in octave.
-* Need all files in gamefiles for running the cricket gaame.
+* Need all files in gamefiles for running the cricket game.
 ## Exexuting program ##
 * Once all files are download, just compile and run the program.
 ## Features ##
@@ -50,8 +50,9 @@ You can check current balance of yours.
 
 ![Screenshot 2021-11-27 122447](https://user-images.githubusercontent.com/84980384/143672433-a8651c77-363f-4c35-aeac-765a5460decc.png)
 ## Known Issues ##
-* You can transfer funds to non existing username.
-* if the username is wrong in login, no exception is thrown.
+* There may be a  reset button instead of restarting the project again and again.
+* The model must contain more dataset values.
+* The formula may include angle and force as well for better prediction. 
 # Authors
 
 1. Ahmed Aleem\
