@@ -24,10 +24,12 @@ The file 'grp - Copy.dat' contains the dataset.
  File 'theta.dat' contain values of weights of thetas for model.
 ![Screenshot 2021-11-30 093940](https://user-images.githubusercontent.com/84980384/143986649-9405f76f-cb7c-4351-be72-3f13164b7b01.png)
 
-![Screenshot 2021-11-27 115225](https://user-images.githubusercontent.com/84980384/143671468-216c8678-4458-4f4c-925c-d0af6f1f60d5.png)
-### Existing user ###
-You are asked to give username and password. If password is wrong four times, the program exits , shows the following options otherwise.
-![Screenshot 2021-11-27 115809](https://user-images.githubusercontent.com/84980384/143671592-a8c257fc-89a3-4832-acb1-7c1e0a7eb4a7.png)
+### code ###
+The code contains
+
+![Screenshot 2021-11-30 094202](https://user-images.githubusercontent.com/84980384/143986912-e24fa362-7d79-47b7-9aa0-398f8174541e.png)
+
+![Screenshot 2021-11-30 094228](https://user-images.githubusercontent.com/84980384/143986883-dd6a008c-f9ba-4c11-8569-2f99bedb8f23.png)
 
 * Billing\
  Enter your reference number of bill and amount , if the amount is valid(account balance is higher than bill ), it get paid and asked to enter amount again (may be typo error by user )otherwise.
