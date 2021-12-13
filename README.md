@@ -1,5 +1,5 @@
 
-# Linear Algera project.
+# MT1004-Linear Algera project-Height predicting model.
 
 ![ezgif-4-fdc4c6088561](https://user-images.githubusercontent.com/84980384/143990691-ea896efc-3b30-462b-b21d-d88debb16e2a.gif)
 
@@ -7,8 +7,7 @@
 ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65342f4e6174696f6e616c5f556e69766572736974795f6f665f436f6d70757465725f616e645f456d6572676 (1)](https://user-images.githubusercontent.com/84980384/142883094-f0749c11-8373-4c7a-9e07-b94648ab14b5.png)\
                  Height predicting model made at FAST National University-NUCES NUCES, karachi
 # Description
-Linear Algebra is basic of machine learning.Me with my group memmbers developed height predicting model using polynomial regressionand then implement it in form of cricket game.You can download the octave [​here​](https://www.gnu.org/software/octave/download).The game takes velocity and then predict the height, the formula used is mentioned later.
-
+Linear Algebra is basic of machine learning.Me with my group memmbers developed height predicting model using polynomial regressionand then implement it in form of cricket game.You can download the octave [​here​](https://www.gnu.org/software/octave/download).It was made by me along with my 2 friends.The game takes velocity and then predict the height, the formula derived from equating Potential Energy and Kinetic Energy.The formula is (1/(2*g))*(v)^2.
 # Getting Sarted
 ## Dependencies ##
 * Windows 10/Mac OS/Linux.
